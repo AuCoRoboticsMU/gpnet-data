@@ -1,0 +1,4 @@
+# Dataset generation parameters
+dataset_name: test
+gripper_name: pal_gripper
+raw_mesh_path: /data/raw_meshes/
