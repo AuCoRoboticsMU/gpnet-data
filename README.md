@@ -2,7 +2,7 @@
 
 This repository includes code for generating data for GP-net. If you want to use GP-net with a PAL parallel jaw
 gripper, you can download the pre-trained model or the training data from 
-[zenodo](https://zenodo.org/record/7092009#.YyghmtXMJl8) and will not need to use this code.
+[zenodo](https://zenodo.org/record/7583978) and will not need to use this code.
 
 If you want to train GP-net for an alternative gripper, you can generate data with this codebase and use it
 to train a model with [GP-net](https://github.com/AuCoRoboticsMU/GP-net).
@@ -13,7 +13,7 @@ We use the [DexNet](https://github.com/BerkeleyAutomation/dex-net) python packag
 modifications of the original code have been made to apply it to the use-case of mobile robots and 6-DOF grasps.
 
 We highly recommend the installation via [docker](https://www.docker.com). A pre-built docker image is 
-available on [zenodo](https://zenodo.org/record/7092009#.YyghmtXMJl8). After you downloaded and unpacked it on your
+available on [zenodo](https://zenodo.org/record/7583978). After you downloaded and unpacked it on your
 machine, you can use `./run_docker.sh` to run the docker image. Note that you have to change PATH_DSET 
 in `run_docker.sh` to the directory path where you will store your meshes and dataset. It will be mounted to `/data` 
 in the docker container.
