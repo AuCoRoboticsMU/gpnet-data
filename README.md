@@ -40,7 +40,7 @@ configuration if needed.
 
 If you use this code, please cite
 
-A. Konrad, J. McDonald and R. Villing, "Proposing Grasps for Mobile Manipulators," in review.
+A. Konrad, J. McDonald and R. Villing, "GP-Net: Flexible Viewpoint Grasp Proposal," in 21st International Conference on Advanced Robotics (ICAR), (pp. 317-324), 2023.
 
 J. Mahler, J. Liang, S. Niyaz, M. Laskey, R. Doan, X. Liu, J. A. Ojea,
 and K. Goldberg, “Dex-net 2.0: Deep learning to plan robust grasps with
